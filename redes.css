@@ -5,8 +5,19 @@
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
 }
+.card{
+    background-color: #e0e5e9;
+    position: relative;
+}
+.card-body{
+    background-color: #775f5f;
+    
+}
+
+
+
 body{
-    background-color: #bbbec0;
+    background-color: #ffffff;
 }
 .pie-pagina{
     width: 100%;
